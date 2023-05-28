@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "ArabFont";
+    src: url("/public/Assets/ArbFonts.com/ArbFONTS-FFShamelFamily-SansOneBold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "ArabFont";
+    src: url("/public/Assets/ArbFonts.com/ArbFONTS-FFShamelFamily-SansOneBook.ttf");
+    font-weight: normal;
+}
